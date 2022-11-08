@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-	font-family: "Carter One", cursive;
+	font-family: "Kalam", cursive;
 	text-align: center;
 	color: #d5cfb6;
 	background-color: #616640;
@@ -50,7 +50,7 @@ textarea {
 	display: inline-block;
 	border-radius: 2rem;
 	width: 60%;
-	font-family: "Carter One", cursive;
+	font-family:  "Kalam", cursive;
 	background-color: #d5cfb6
 }
 
