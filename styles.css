@@ -31,12 +31,14 @@ h3 {
 	font-size: x-large;
 }
 
-p .head {
+.head {
 	font-family: "Montserrat", sans-serif;
 	text-align: center;
-	font-display: auto;
+	width:100%;
+	display: block;
+	font-size: large;
 	margin-bottom: 3rem;
-	color: #3f432a;
+	color: #d5cfb6;
 }
 
 .bottom-name {
@@ -91,7 +93,7 @@ footer a {
 	padding: 0 3rem;
 	margin: 0;
 	text-decoration: none;
-	color: black;
+	color: #d5cfb6;
 }
 
 a:hover {
